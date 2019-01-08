@@ -42,13 +42,15 @@
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
-    <Compile Include="Library1.fs" />
+    <Compile Include="01_FsiDemo.fs" />
     <None Include="Script.fsx" />
     <Content Include="packages.config" />
-    <Compile Include="Library2.fs" />
-    <Compile Include="Library3.fs" />
-    <Compile Include="Library4.fs" />
+    <Compile Include="02_datatypes.fs" />
+    <Compile Include="03_functions.fs" />
+    <Compile Include="04_functions2.fs" />
+    <Compile Include="05_patterns.fs" />
     <Content Include="mytext.txt" />
+    <Compile Include="06_Lists.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">
