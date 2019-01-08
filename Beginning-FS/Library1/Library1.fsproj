@@ -47,6 +47,8 @@
     <Content Include="packages.config" />
     <Compile Include="Library2.fs" />
     <Compile Include="Library3.fs" />
+    <Compile Include="Library4.fs" />
+    <Content Include="mytext.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">
