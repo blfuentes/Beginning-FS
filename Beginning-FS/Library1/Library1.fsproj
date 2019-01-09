@@ -51,6 +51,9 @@
     <Compile Include="05_patterns.fs" />
     <Content Include="mytext.txt" />
     <Compile Include="06_Lists.fs" />
+    <Compile Include="07_Types_TypeInference.fs" />
+    <Compile Include="08_DefiningTypes.fs" />
+    <Compile Include="09_DiscriminatedUnions.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">
