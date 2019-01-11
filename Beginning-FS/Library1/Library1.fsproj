@@ -54,6 +54,12 @@
     <Compile Include="07_Types_TypeInference.fs" />
     <Compile Include="08_DefiningTypes.fs" />
     <Compile Include="09_DiscriminatedUnions.fs" />
+    <Compile Include="10_TypeDefinitions_TypeParameters.fs" />
+    <Compile Include="11_RecursiveTypeDefinitions.fs" />
+    <Compile Include="12_ActivePatterns.fs" />
+    <Compile Include="13_UnitsOfMeasure.fs" />
+    <Compile Include="14_ExceptionsAndExceptionHandling.fs" />
+    <Compile Include="15_LazyEvaluation.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FSharp.Core">
